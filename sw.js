@@ -1,6 +1,7 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
   '/',
+  'quizdb.pagekite.me/index.php',
   '/index.html',
   '/css/style.css',
   '/js/main.js'
